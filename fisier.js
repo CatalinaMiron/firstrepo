@@ -1,4 +1,4 @@
 function functie() {
   console.log("ceva");
 }
-am modificat in browser
+var ceva = "altceva";
