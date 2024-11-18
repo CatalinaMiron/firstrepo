@@ -1,4 +1,5 @@
 function functie() {
   console.log("ceva");
 }
-var ceva = "altceva";
+let ceva = "altceva";
+const altceva = 2;
