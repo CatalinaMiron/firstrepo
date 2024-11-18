@@ -1,3 +1,1 @@
-alt fisier verificare
-alt fisier verificare
-alt fisier verificare
+function myFunction() {}
